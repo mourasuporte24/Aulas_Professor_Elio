@@ -19,17 +19,8 @@ public class Use_Array_and_For {
 		System.out.println( " =================================================== ");
 		
 		for(String dados : vct) {
-			System.out.println(dados);
-		}
-		
-		
-		
-     		
-		
-		
-		
-		
+			System.out.println(dados);			
 	sc.close();
-		}
-		
-}
+	     }
+	   }
+	}
