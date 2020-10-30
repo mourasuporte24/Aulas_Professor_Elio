@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Use_For {
+public class Use_Array_and_For {
 
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);
